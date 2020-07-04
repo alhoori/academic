@@ -26,8 +26,8 @@ date_format = "2006"
   title = "Predicting Scientific Fields using Machine Learning and Text Mining Techniques"
   url = ""
   # certificate_url = "https://www.coursera.org"
-  date_start = "2019"
-  date_end = "2020"
+ # date_start = "2019"
+ # date_end = "2020"
   description = ""
   
 
