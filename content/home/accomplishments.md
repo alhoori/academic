@@ -20,33 +20,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Argonne National Laboratory"
+  organization_url = "https://www.anl.gov/"
+  title = "Predicting Scientific Fields using Machine Learning and Text Mining Techniques"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "2019"
+  date_end = "2020"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "Texas A&M University"
+  organization_url = "https://www.tamu.edu/"
+  title = "Graduate Student Travel Grant Award"
+# url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+#  certificate_url = "https://www.edx.org"
+  date_start = "2013"
+  date_end = "2015"
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
+ 
+ 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Alliance of Digital Humanities Organizations (ADHO)"
+  organization_url = "https://adho.org/"
+  title = "ADHO bursary award"
+  url = "https://adho.org/announcements/2013/adho-announces-winners-fortier-and-zampolli-prizes"
+  #  certificate_url = "https://www.edx.org"
+  date_start = "2013"
+  date_end = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
+ 
+ https://app.dimensions.ai/details/grant/grant.4186776
+ 
+[[item]]
+  organization = "Alliance of Digital Humanities Organizations (ADHO)"
+  organization_url = "https://adho.org/"
+  title = "ADHO bursary award"
+  url = "https://adho.org/announcements/2013/adho-announces-winners-fortier-and-zampolli-prizes"
+  #  certificate_url = "https://www.edx.org"
+  date_start = "2013"
+  date_end = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 +++
