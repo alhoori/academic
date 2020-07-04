@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.anl.gov/"
   title = "Predicting Scientific Fields using Machine Learning and Text Mining Techniques"
   url = ""
-  certificate_url = "https://www.coursera.org"
+#  certificate_url = "https://www.coursera.org"
   date_start = "2019"
   date_end = "2020"
   description = ""
@@ -39,27 +39,6 @@ date_format = "Jan 2006"
   date_end = "2015"
  # description = "Formulated informed blockchain models, hypotheses, and use cases."
  
- 
-[[item]]
-  organization = "Alliance of Digital Humanities Organizations (ADHO)"
-  organization_url = "https://adho.org/"
-  title = "ADHO bursary award"
-  url = "https://adho.org/announcements/2013/adho-announces-winners-fortier-and-zampolli-prizes"
-  #  certificate_url = "https://www.edx.org"
-  date_start = "2013"
-  date_end = ""
- # description = "Formulated informed blockchain models, hypotheses, and use cases."
- 
- https://app.dimensions.ai/details/grant/grant.4186776
- 
-[[item]]
-  organization = "Alliance of Digital Humanities Organizations (ADHO)"
-  organization_url = "https://adho.org/"
-  title = "ADHO bursary award"
-  url = "https://adho.org/announcements/2013/adho-announces-winners-fortier-and-zampolli-prizes"
-  #  certificate_url = "https://www.edx.org"
-  date_start = "2013"
-  date_end = ""
- # description = "Formulated informed blockchain models, hypotheses, and use cases."
+
 
 +++
