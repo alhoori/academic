@@ -19,14 +19,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Argonne National Laboratory"
-  organization_url = "https://www.anl.gov/"
-  title = "Predicting Scientific Fields using Machine Learning and Text Mining Techniques"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2019"
-  date_end = "2020"
-  description = ""
+
 
 +++
