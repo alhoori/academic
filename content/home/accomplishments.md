@@ -37,7 +37,7 @@ subtitle = ""
   organization_url = "https://www.qnrf.org/en-us/"
   title = "Key participant in Qatar Digital Library project. NPRP 4-029-1-007."
   url = "https://app.dimensions.ai/details/grant/grant.4186776"
-  date_start = "2012-01-01"
+  date_start = "2013-01-01"
   date_end = "2017-01-01"
   
  [[item]]
@@ -68,24 +68,21 @@ subtitle = ""
    organization = "European Conference on Digital Libraries"
   # organization_url = "https://www.tamu.edu/"
    title = "Student scholarship"
-   date_start = "2009-01-01"
-
-
-[[item]]
-  organization = "ADHO"
-  organization_url = "https://adho.org/"
-  title = "Alliance of Digital Humanities Organizations bursary award"
-  url = "https://adho.org/announcements/2013/adho-announces-winners-fortier-and-zampolli-prizes"
-  date_start = "2013-01-01"
-   
+   date_start = "2009-01-01" 
 
 
  [[item]]
    organization = "University of Bahrain"
    organization_url = "http://www.uob.edu.bh/en/"
-   title = "Scholarships for MS and PhD in Computer Science"
+   title = "Scholarship for PhD in Computer Science"
   date_start = "2011-01-01"
 
+
+ [[item]]
+   organization = "University of Bahrain"
+   organization_url = "http://www.uob.edu.bh/en/"
+   title = "Scholarship for MS in Computer Science"
+  date_start = "2007-01-01"
   
   [[item]]
     organization = "Ministry of Education in Bahrain"
