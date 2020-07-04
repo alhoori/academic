@@ -39,7 +39,7 @@ subtitle = ""
   url = "https://app.dimensions.ai/details/grant/grant.4186776"
   date_start = "2013-01-01"
   date_end = "2017-01-01"
-  
+
  [[item]]
    organization = "Texas A&M University"
    organization_url = "https://www.tamu.edu/"
@@ -61,14 +61,14 @@ subtitle = ""
   title = "Industrial Affiliate Program (IAP) scholarship"
   url = "https://engineering.tamu.edu/cse/admissions-and-aid/scholarships-aid/scholarship-recipients/archive.html"
   date_start = "2011-01-01"
-    
+
 
 
  [[item]]
    organization = "European Conference on Digital Libraries"
   # organization_url = "https://www.tamu.edu/"
    title = "Student scholarship"
-   date_start = "2009-01-01" 
+   date_start = "2009-01-01"
 
 
  [[item]]
@@ -83,13 +83,13 @@ subtitle = ""
    organization_url = "http://www.uob.edu.bh/en/"
    title = "Scholarship for MS in Computer Science"
   date_start = "2007-01-01"
-  
+
   [[item]]
     organization = "Ministry of Education in Bahrain"
    organization_url = "https://www.moe.gov.bh/?lan=en"
     title = "Scholarship for a Bachelor in Computer Science"
     date_start = "2002-01-01"
-  
-  
+
+
 
 +++

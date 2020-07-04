@@ -7,39 +7,38 @@ authors:
   - admin
 title: Hamed Alhoori
 role: "Assistant Professor of Computer Science"
-
 bio: My research interests include Data Science, Applied Machine Learning, Text
   Mining, Science of Science, Computational Social Science, Social Computing
-  
+
 interests:
   - Data Science
   - Text Mining
   - Applied Machine Learning
-  - Social Media Analytics 
+  - Social Media Analytics
   - Science of Science
   - Computational Social Science
-  
+
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-        
+
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=27CfLjEAAAAJ&hl=en
-  
+
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Hamed_Alhoori
-    
+
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alhoori/
-        
+
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/alhoori
-        
+
 education:
   courses:
     - course: "PhD in Computer Science "
@@ -52,9 +51,11 @@ education:
       institution: University of Bahrain
       year: ""
 email: alhoori@niu.edu
+
+user_groups:
+  - Researchers
+
 user_groups:
   - Researchers
   - Visitors
 ---
-
-
