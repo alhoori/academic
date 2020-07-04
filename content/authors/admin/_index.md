@@ -25,6 +25,10 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=27CfLjEAAAAJ&hl=en
+  
+  - icon: research-gate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Hamed_Alhoori
     
   - icon: linkedin
     icon_pack: fab
