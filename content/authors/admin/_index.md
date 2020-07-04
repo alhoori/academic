@@ -14,9 +14,10 @@ bio: My research interests include Data Science, Applied Machine Learning, Text
 interests:
   - Data Science
   - Text Mining
+  - Applied Machine Learning
+  - Social Media Analytics 
   - Science of Science
   - Computational Social Science
-  - Applied Machine Learning
   
 social:
   - icon: envelope
