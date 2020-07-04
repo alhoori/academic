@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Texas A&M University, College Station, Texas
+  - name: "Northern Illinois University "
     url: ""
 superuser: true
 authors:
