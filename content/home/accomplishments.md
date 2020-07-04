@@ -29,16 +29,4 @@ date_format = "Jan 2006"
   date_end = "2020"
   description = ""
 
-[[item]]
-  organization = "Texas A&M University"
-  organization_url = "https://www.tamu.edu/"
-  title = "Graduate Student Travel Grant Award"
-# url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-  date_start = "2013"
-  date_end = "2015"
- # description = "Formulated informed blockchain models, hypotheses, and use cases."
- 
-
-
 +++
