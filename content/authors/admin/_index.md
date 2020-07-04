@@ -6,7 +6,9 @@ superuser: true
 authors:
   - admin
 title: Hamed Alhoori
-role: "Assistant Professor of Computer Science"
+role: "Assistant Professor"
+role: "Computer Science"
+
 bio: My research interests include Data Science, Applied Machine Learning, Text
   Mining, Science of Science, Computational Social Science, Social Computing
   
