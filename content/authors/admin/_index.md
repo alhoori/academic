@@ -29,14 +29,14 @@ education:
   courses:
     - course: "PhD in Computer Science "
       institution: Texas A&M University, College Station, Texas
-      year: 2015
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      year: ""
+    - course: "M.S. in Computer Science "
+      institution: Texas A&M University, College Station, Texas
+      year: ""
+    - course: "BSc in Computer Science "
+      institution: University of Bahrain
+      year: ""
+email: alhoori@niu.edu
 user_groups:
   - Researchers
   - Visitors
