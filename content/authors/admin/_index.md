@@ -1,30 +1,39 @@
 ---
 organizations:
-  - name: "Northern Illinois University "
+  - name: "Northern Illinois University"
     url: ""
 superuser: true
 authors:
   - admin
 title: Hamed Alhoori
-role: "Professor of Computer Science "
+role: "Assistant Professor of Computer Science"
 bio: My research interests include Data Science, Applied Machine Learning, Text
   Mining, Science of Science, Computational Social Science, Social Computing
+  
 interests:
   - Data Science
   - Text Mining
   - Science of Science
   - Computational Social Science
   - Applied Machine Learning
+  
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/alhoori
+        
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=27CfLjEAAAAJ&hl=en
+    
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/alhoori/
+        
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/alhoori
+        
 education:
   courses:
     - course: "PhD in Computer Science "
