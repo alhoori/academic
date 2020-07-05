@@ -52,10 +52,7 @@ education:
       year: ""
 email: alhoori@niu.edu
 
-user_groups:
-  - Researchers
-
-user_groups:
-  - Researchers
-  - Visitors
+#user_groups:
+#  - Researchers
+#  - Visitors
 ---

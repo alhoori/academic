@@ -1,0 +1,17 @@
+---
+organizations:
+  - name: "Northern Illinois University"
+    url: ""
+superuser: false
+#authors:
+#  - admin
+title: Mrinmoy Roy
+role: "PhD student"
+
+interests:
+  - Health Informatics  
+
+
+user_groups:
+  - Researchers
+---
