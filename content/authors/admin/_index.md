@@ -1,19 +1,19 @@
 ---
-organizations:
-  - name: "Northern Illinois University"
-    url: ""
+#organizations:
+#  - name: "Northern Illinois University"
+#    url: ""
 superuser: true
 authors:
   - admin
-title: Hamed Alhoori
-role: "Assistant Professor of Computer Science"
+#title: Hamed Alhoori
+#role: "Assistant Professor of Computer Science"
 bio: My research interests include Data Science, Applied Machine Learning, Text
   Mining, Science of Science, Computational Social Science, Social Computing
 
 interests:
   - Data Science
   - Text Mining
-  - Applied Machine Learning
+  - Machine Learning
   - Social Media Analytics
   - Science of Science
   - Computational Social Science
@@ -30,6 +30,10 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Hamed_Alhoori
+
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/1550233/hamed-alhoori/peer-review/
 
   - icon: linkedin
     icon_pack: fab
@@ -56,3 +60,5 @@ email: alhoori@niu.edu
 #  - Researchers
 #  - Visitors
 ---
+
+I am an Assistant Professor in the Department of Computer Science at Northern Illinois University and am the Director of the Data Analytics Theory and Applications (DATA) Laboratory.

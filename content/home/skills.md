@@ -3,15 +3,15 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Skills in DATA lab"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
@@ -19,13 +19,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 #  description = "90%"
-  
+
  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
 # description = "100%"  
-  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

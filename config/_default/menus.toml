@@ -13,40 +13,42 @@
   url = "#news"
   weight = 20
 
+
+[[main]]
+ name = "Awards"
+ url = "#accomplishments"
+ weight = 30
+
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#publications"
+  weight = 50
 
 [[main]]
   name = "DATA lab"
   url = "#people"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 60
+  weight = 70
 
 
 [[main]]
   name = "Service"
   url = "#service"
-  weight = 70
-
-
-[[main]]
-  name = "Awards"
-  url = "#accomplishments"
   weight = 80
-  
-  
-  
+
+
+
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
