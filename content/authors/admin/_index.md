@@ -21,7 +21,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:alhoori@niu.edu"
 
   - icon: google-scholar
     icon_pack: ai
