@@ -4,7 +4,6 @@ organizations:
     url: ""
 superuser: false
 #authors:
-#  - admin
 title: Ashiqur Rahman
 role: "MS student"
 

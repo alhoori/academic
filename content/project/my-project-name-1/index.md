@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name 1"
+title: "My Project Name 2"
 summary: "A simple app to help me record data on my seedlings."
 authors: ["admin"]
 tags: ["iOS", "Swift", "application", "app", "open source", "programming"]

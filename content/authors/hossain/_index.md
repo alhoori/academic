@@ -3,8 +3,6 @@ organizations:
   - name: "Northern Illinois University"
     url: ""
 superuser: false
-#authors:
-#  - admin
 title: Shahadat Hossain
 role: "PhD student"
 

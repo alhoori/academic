@@ -3,11 +3,9 @@ organizations:
   - name: "Northern Illinois University"
     url: ""
 superuser: false
-#authors:
-#  - admin
 title: Akhil Pandey
 role: "PhD student"
-bio: "Data mining "
+bio: "Deep Learning"
 
 interests:
   - Deep Learning

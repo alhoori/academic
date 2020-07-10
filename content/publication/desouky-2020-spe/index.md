@@ -11,4 +11,3 @@ tags: ["machine learning", "Petroleum Engineering"]
 url_pdf: "publications/desouky-2020-spe.pdf"
 doi: "10.2118/200527-MS"
 ---
-
