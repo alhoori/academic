@@ -19,10 +19,10 @@
  url = "#accomplishments"
  weight = 30
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 40
 
 [[main]]
   name = "Publications"
@@ -46,6 +46,10 @@
   weight = 80
 
 
+  [[main]]
+    name = "Contact"
+    url = "#contcat"
+    weight = 130
 
 
 

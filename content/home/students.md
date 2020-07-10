@@ -3,7 +3,7 @@ active = true
 headless = true
 subtitle = ""
 title = "Students"
-weight = 90
+weight = 60
 widget = "blank"
 
 +++
