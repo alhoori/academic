@@ -14,8 +14,8 @@ interests:
   - Data Science
   - Text Mining
   - Machine Learning
-  - Social Media Analytics
   - Science of Science
+  - Social Media Analytics
   - Computational Social Science
 
 social:

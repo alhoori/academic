@@ -13,7 +13,7 @@ widget = "blank"
 * International Journal of Digital Libraries (IJDL) (2020 – present)
 
 ## Program Committee Member
-* The International AAAI Conference on Web and Social Media (ICWSM) 2018, 2019, 2020
+* The International AAAI Conference on Web and Social Media (ICWSM) 2018, 2019, 2020, 2021
 * ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2016, 2017, 2018, 2019, 2020
 * The International ACM Conference on Web Science 2020
 * The annual conference of the Asia-Pacific chapter of the Association for Computational Linguistics (AACL) 2020
@@ -29,13 +29,15 @@ widget = "blank"
 * Workshop "Scholarly Big Data: AI Perspectives, Challenges, and Ideas" at the International Joint Conference on Artificial Intelligence 2016
 
 ## Reviewer
+* Expert Systems with Applications, 2020
+* Journal of Informetrics, 2020
 * Journal of Network and Computer Applications 2019
 * Journal of the Association for Information Science and Technology (JASIST) 2017, 2018
 * International Journal on Digital Libraries (IJDL) 2015, 2017, 2018, 2019  
 *	Social Network Analysis and Mining (SNAM) 2017, 2018  
 *	iConference 2015, 2017, 2018, 2019, 2020
 *	Scientometrics 2018
-*	PLOS ONE 2017
+*	PLOS ONE 2017,2020
 
 ## Conference Session Chair
 *	“Scholarly Documents,” JCDL 2019, University of Illinois at Urbana-Champaign.

@@ -9,24 +9,23 @@ widget = "blank"
 +++
 
 ## Ph.D. Dissertation Supervisor
-1. Akhil Pandey Akella	(Spring 2020 – present)	Uncertainty in Deep Learning
-2. Cole Freeman	(Summer 2020 – present)	Text Mining, Topic Modeling
-3. Abdul Rahman Shaikh	(Fall 2020 –  present)	Machine Learning, Computer Vision
-4. Shahadat Hossain	(Fall 2020 –  present)	Data Visualization, Reproducibility
-5. Harish Varma Siravuri	(Fall 2020 –  present)	Social Data Science
-6. Murtuza Shahzad Syed	(Fall 2020 –  present)	Automated Machine Learning
-7. Mrinmoy Roy	(Fall 2020 –  present)	Health Informatics  
-8. Rahul Reddy Thummala	(Fall 2020 –  present)	Explainable Artificial Intelligence
+1. Akhil Pandey Akella	(Spring 2020 – present)	Reproducibility, Uncertainty in Deep Learning, Explainable Artificial Intelligence
+2. Abdul Rahman Shaikh	(Fall 2020 –  present)	Machine Learning, Computer Vision
+3. Harish Varma Siravuri	(Fall 2020 –  present)	Social Data Science,
+Public Understanding of Science
+4. Mrinmoy Roy	(Fall 2020 –  present)	Health Informatics  
+5. Murtuza Shahzad Syed	(Fall 2020 –  present)	Automated Machine Learning
+6. Rahul Reddy Thummala	(Fall 2020 –  present)	Explainable Artificial Intelligence
+7. Shahadat Hossain	(Fall 2020 –  present)	Data Visualization, Reproducibility
 
 
 ## M.S. Thesis Supervisor
 1. Abdul Rahman Shaikh	(Spring 2018 – present)	Machine Learning, Computer Vision
-2. Murtuza Shahzad Syed	(Fall 2017 – present)	Social Media Mining
+2. Murtuza Shahzad Syed	(Fall 2017 – Fall 2020)	Development of Machine Learning Models to Predict the Online Impact of Research
 3. Ashiqur Rahman	(Fall 2020 -  present)	Detecting COVID-19 Misinformation
 4. Cole Freeman	(Spring 2020)	The Emotions of Science: Using Social Media to Gauge Public Emotions Toward Research Topics
 5. Akhil Pandey Akella	(Fall 2019)	Using Machine Learning Models to Discover Promising Research
 6. Harish Varma Siravuri	(Spring 2018)	Assessment of Societal Impact of Research. Data Scientist at Nielsen
-7. Christian Bailey	(on leave) 	Natural Language Processing
 
 
 ## M.S. Thesis Committee Member
@@ -40,7 +39,7 @@ widget = "blank"
 
 
 ## M.S. Students Advising (Semester-Long Research Project)
-1. Ashiqur Rahman	(Spring 2020 - present)	Research Assistant
+1. Ashiqur Rahman	(Spring 2020 - Summer 2020)	Research Assistant
 2. Srikanth Nagidi	(Summer 2019 – Fall 2019)
 3. Pavan Kondamudi	(Spring 2017 – Spring 2018)	Data Scientist at Oracle
 4. Pradeep Maddipatla	(Fall 2017 – Spring 2018)
@@ -60,7 +59,7 @@ widget = "blank"
 
 
 ## Undergraduate
-1.	Enrique Nueve	(Fall 2018 – present)	Intern at Argonne Laboratory
+1.	Enrique Nueve	(Fall 2018 – Spring 2020)	Machine Learning Researcher at Argonne Laboratory
 2.	Ethan Pitre	(Summer 2019)	Software Developer at Epic
 3.	Sahithi Challapalli	(Fall 2018 – Spring 2019)	*Research rookie*
 4.	Aleena Ahmed	(Fall 2018)	Business Intelligence Intern at Zebra

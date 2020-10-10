@@ -20,6 +20,15 @@ subtitle = ""
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[item]]
+  organization = "National Science Foundation"
+  organization_url = "https://www.nsf.gov/"
+  title = "Collaborative Research: Identifying Reproducible Research Using Human-in-the-loop Machine Learning, role:PI"
+  url = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2022443&HistoricalAwards=false"
+  date_start = "2020-09-01"
+  date_end = "2022-08-31"
+  description = ""  
+
 
 [[item]]
   organization = "Argonne National Laboratory"
