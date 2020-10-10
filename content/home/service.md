@@ -31,13 +31,13 @@ widget = "blank"
 ## Reviewer
 * Expert Systems with Applications, 2020
 * Journal of Informetrics, 2020
-* Journal of Network and Computer Applications 2019
-* Journal of the Association for Information Science and Technology (JASIST) 2017, 2018
-* International Journal on Digital Libraries (IJDL) 2015, 2017, 2018, 2019  
-*	Social Network Analysis and Mining (SNAM) 2017, 2018  
+* Journal of Network and Computer Applications, 2019
+* Journal of the Association for Information Science and Technology (JASIST), 2017, 2018
+* International Journal on Digital Libraries (IJDL), 2015, 2017, 2018, 2019  
+*	Social Network Analysis and Mining (SNAM), 2017, 2018  
 *	iConference 2015, 2017, 2018, 2019, 2020
 *	Scientometrics 2018
-*	PLOS ONE 2017,2020
+*	PLOS ONE 2017, 2020
 
 ## Conference Session Chair
 *	“Scholarly Documents,” JCDL 2019, University of Illinois at Urbana-Champaign.
